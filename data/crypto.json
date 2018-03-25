@@ -1,0 +1,4087 @@
+{
+  "nodes": [
+    {
+      "label": "Silke V.d.B.",
+      "x": 135.32754516601562,
+      "y": -224.34234619140625,
+      "id": "67",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Nabil K.",
+      "x": -105.38066864013672,
+      "y": -254.8665313720703,
+      "id": "47",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jérémie M.",
+      "x": -269.37347412109375,
+      "y": 45.82699966430664,
+      "id": "33",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Marie L.",
+      "x": -102.323974609375,
+      "y": -286.7278137207031,
+      "id": "49",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Thierry L.",
+      "x": 85.56067657470703,
+      "y": -314.8817443847656,
+      "id": "151",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Tim D.",
+      "x": -468.9818115234375,
+      "y": -64.67619323730469,
+      "id": "217",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Marlon M. V.",
+      "x": 289.89013671875,
+      "y": 99.17279052734375,
+      "id": "61",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Hadrien V. D.",
+      "x": -190.66436767578125,
+      "y": 125.16180419921875,
+      "id": "119",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Thierry M.",
+      "x": 32.720703125,
+      "y": -155.70281982421875,
+      "id": "159",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Emily B.",
+      "x": -173.18667602539062,
+      "y": -299.5027770996094,
+      "id": "173",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Michiel M.",
+      "x": -281.1343994140625,
+      "y": -114.18814086914062,
+      "id": "23",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Nicolas V. E.",
+      "x": -239.0789794921875,
+      "y": 243.5885009765625,
+      "id": "75",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Cassandre V.",
+      "x": 350.53717041015625,
+      "y": -239.9991912841797,
+      "id": "16",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Igor R.",
+      "x": -218.433837890625,
+      "y": 180.75750732421875,
+      "id": "189",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Juru",
+      "x": 442.6130065917969,
+      "y": 59.625328063964844,
+      "id": "120",
+      "attributes": {
+        "one-liner description": "Your Digital Identity - Own it - Manage it - Control it",
+        "node type": "Pure play company",
+        "web link": "<a href='https://juru.io/' target='_blank'>Company website</a>",
+        "contact": "info@juru.io",
+        "location": "Niel"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 14.428571701049805
+    },
+    {
+      "label": "Magomet T.",
+      "x": 176.43374633789062,
+      "y": -178.92425537109375,
+      "id": "69",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jeroen D. P.",
+      "x": -327.9724426269531,
+      "y": -206.14755249023438,
+      "id": "144",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Dimitri D. J.",
+      "x": 46.42880630493164,
+      "y": 24.805988311767578,
+      "id": "135",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Rutger B.",
+      "x": 164.4784698486328,
+      "y": -245.32952880859375,
+      "id": "71",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "David L.",
+      "x": 122.24237060546875,
+      "y": 254.98291015625,
+      "id": "101",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Laga",
+      "x": -48.31459045410156,
+      "y": -390.5058288574219,
+      "id": "157",
+      "attributes": {
+        "node type": "Professional services & advisors",
+        "web link": "<a href='https://www.laga.be/' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 12.142857551574707
+    },
+    {
+      "label": "Anthony S.",
+      "x": -204.95114135742188,
+      "y": -126.77083587646484,
+      "id": "77",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jürgen O.",
+      "x": 365.3434753417969,
+      "y": -33.59883499145508,
+      "id": "123",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Trase",
+      "x": -98.09452819824219,
+      "y": 135.83901977539062,
+      "id": "118",
+      "attributes": {
+        "one-liner description": "Every day we build our expertise with this new technology, we embrace the research that needs to be done and we share the knowledge that we gather. Trase is your partner that grows with you, a trustworthy innovator.",
+        "node type": "Pure play company",
+        "web link": "<a href='http://www.trase.be/en/' target='_blank'>Company website</a>",
+        "contact": "info@trase.be",
+        "location": "Herentals"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 12.142857551574707
+    },
+    {
+      "label": "Trends",
+      "x": -5.799970626831055,
+      "y": 67.95176696777344,
+      "id": "141",
+      "attributes": {
+        "node type": "Media outlet",
+        "web link": "<a href='http://trends.levif.be/' target='_blank'>website</a>"
+      },
+      "color": "rgb(192,192,192)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Digityser",
+      "x": 158.1481475830078,
+      "y": -48.7874641418457,
+      "id": "196",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://digityser.org/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Accenture",
+      "x": 442.3401794433594,
+      "y": -96.77381896972656,
+      "id": "24",
+      "attributes": {
+        "node type": "Company",
+        "web link": "<a href='https://www.accenture.com/be-en' target='_blank'>Company website</a>"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Philippe L.",
+      "x": 67.06404113769531,
+      "y": 173.2664794921875,
+      "id": "170",
+      "attributes": {
+        "one-liner description": "",
+        "node type": "Individual",
+        "web link": "<a href='https://www.linkedin.com/in/philippe-laloux-5b613ab9/' target='_blank'>LinkedIn profile</a>"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Gilles C.",
+      "x": -286.87811279296875,
+      "y": 73.0485610961914,
+      "id": "31",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Stephan J.",
+      "x": -33.804569244384766,
+      "y": -154.65536499023438,
+      "id": "138",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Robin P.",
+      "x": -133.53648376464844,
+      "y": -272.2220458984375,
+      "id": "51",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Maxim G.",
+      "x": 57.12043380737305,
+      "y": -169.322265625,
+      "id": "44",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Charles d. B.",
+      "x": 131.9492645263672,
+      "y": -256.3673400878906,
+      "id": "72",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "FSMA",
+      "x": -87.41250610351562,
+      "y": -179.9171600341797,
+      "id": "156",
+      "attributes": {
+        "node type": "Govt or industry body",
+        "web link": "<a href='https://www.fsma.be' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "NR Mine",
+      "x": -13.629188537597656,
+      "y": 230.16946411132812,
+      "id": "198",
+      "attributes": {
+        "one-liner description": "NRmine (Energy Blockchain Mining) develops innovative mining farms for cryptocurrencies. These mining rigs will be built in the most energy-efficient way in Israel and in Belgium. The system’s main objective is to deliver cryptocurrencies at the highest level of profitability by using solar energy.",
+        "node type": "Pure play company",
+        "web link": "<a href='https://www.nrmine.com/' target='_blank'>Company website</a>",
+        "location": "Hannut"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Dylan D.",
+      "x": -42.720394134521484,
+      "y": 40.533905029296875,
+      "id": "117",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jean-Jacques Q.",
+      "x": -97.8171615600586,
+      "y": -39.856781005859375,
+      "id": "91",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Alexander V.",
+      "x": -334.42608642578125,
+      "y": 125.54432678222656,
+      "id": "187",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jonathan J.",
+      "x": 200.88229370117188,
+      "y": -208.4127655029297,
+      "id": "63",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Frank G.",
+      "x": 207.23220825195312,
+      "y": -174.84803771972656,
+      "id": "66",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "RISE Technologies",
+      "x": -59.619850158691406,
+      "y": 345.5327453613281,
+      "id": "137",
+      "attributes": {
+        "node type": "Non-BE pure play company",
+        "web link": "<a href='https://www.rise-technologies.com/' target='_blank'>website</a>"
+      },
+      "color": "rgb(192,192,192)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Wim T.",
+      "x": -338.3503723144531,
+      "y": -183.88783264160156,
+      "id": "22",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Dirk N.",
+      "x": -39.11317443847656,
+      "y": -73.5775146484375,
+      "id": "164",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Blockchain Vlaanderen Meetup",
+      "x": 1.1164569854736328,
+      "y": -102.96231079101562,
+      "id": "107",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://www.meetup.com/fr-FR/blockchain-vlaanderen/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Gerbert V.",
+      "x": -445.3322448730469,
+      "y": -37.361968994140625,
+      "id": "216",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Steave N.",
+      "x": 261.6978454589844,
+      "y": 15.939834594726562,
+      "id": "56",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Kunstmaan",
+      "x": 456.2577209472656,
+      "y": -53.45655822753906,
+      "id": "129",
+      "attributes": {
+        "node type": "Company",
+        "web link": "<a href='https://labs.kunstmaan.be/' target='_blank'>Company website</a>"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Joris S.",
+      "x": 16.53278350830078,
+      "y": -179.7072296142578,
+      "id": "160",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Bart P.",
+      "x": -82.3094482421875,
+      "y": 288.79754638671875,
+      "id": "92",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Quinten S.",
+      "x": -398.6094665527344,
+      "y": -152.2899627685547,
+      "id": "219",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Deloitte",
+      "x": 280.3368835449219,
+      "y": -70.55241394042969,
+      "id": "79",
+      "attributes": {
+        "node type": "Company",
+        "web link": "<a href='https://www2.deloitte.com/be/en.html' target='_blank'>Company website</a>"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jo V.",
+      "x": -304.0023193359375,
+      "y": -157.1333770751953,
+      "id": "148",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Veronica M.",
+      "x": 227.89102172851562,
+      "y": -228.358154296875,
+      "id": "68",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Hyperledger Brussels Meetup",
+      "x": 159.08364868164062,
+      "y": 118.46333312988281,
+      "id": "109",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://www.meetup.com/fr-FR/Hyperledger-Brussels' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Matthew V. N.",
+      "x": 173.27877807617188,
+      "y": -309.38739013671875,
+      "id": "59",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Nicolas V. H.",
+      "x": -153.11990356445312,
+      "y": 197.73976135253906,
+      "id": "76",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Investereum",
+      "x": -285.34417724609375,
+      "y": -37.7374153137207,
+      "id": "80",
+      "attributes": {
+        "one-liner description": "We are building the best Blockchain and cryptocurrency knowledge platform",
+        "node type": "Pure play company",
+        "web link": "<a href='https://www.investereum.com/about-us/' target='_blank'>Company website</a>",
+        "location": "Mortsel"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Vlaamse Overheid",
+      "x": -84.66654205322266,
+      "y": 22.55213165283203,
+      "id": "133",
+      "attributes": {
+        "node type": "Govt or industry body",
+        "web link": "<a href='https://www.vlaanderen.be' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "European Bitcoin Trading Machine",
+      "x": -15.294770240783691,
+      "y": -6.630787372589111,
+      "id": "87",
+      "attributes": {
+        "one-liner description": "Buy and Sell Bitcoins with euro bank notes at our ATM in Antwerp.",
+        "node type": "Pure play company",
+        "web link": "<a href='http://www.ebtm.be/' target='_blank'>Company website</a>",
+        "contact": "",
+        "location": "Antwerp"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 3
+    },
+    {
+      "label": "Andy K.",
+      "x": -194.2510986328125,
+      "y": -26.756011962890625,
+      "id": "202",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "BeCrypto",
+      "x": 97.47938537597656,
+      "y": 176.98678588867188,
+      "id": "169",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://becrypto.xyz' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Maarten P.",
+      "x": -175.6555938720703,
+      "y": -109.8091812133789,
+      "id": "201",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Ruben D.",
+      "x": 274.30548095703125,
+      "y": 222.731201171875,
+      "id": "104",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Marc J.",
+      "x": -72.03296661376953,
+      "y": -282.5555419921875,
+      "id": "15",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Philippe H.",
+      "x": 15.298675537109375,
+      "y": -400.2352600097656,
+      "id": "158",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Cryptizens.io",
+      "x": 28.733989715576172,
+      "y": -293.5313720703125,
+      "id": "0",
+      "attributes": {
+        "one-liner description": "A Blockchain development powerhouse",
+        "node type": "Pure play company",
+        "web link": "<a href='https://cryptizens.io/' target='_blank'>Company website</a>",
+        "contact": "hello@cryptizens.io",
+        "location": "Brussels"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Karel S.",
+      "x": -411.641845703125,
+      "y": -56.09495544433594,
+      "id": "214",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "CMS",
+      "x": 147.80819702148438,
+      "y": -352.9941101074219,
+      "id": "183",
+      "attributes": {
+        "node type": "Professional services & advisors",
+        "web link": "<a href='https://cms.law/en/BEL/' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Daan P.",
+      "x": 404.8807373046875,
+      "y": -45.712310791015625,
+      "id": "132",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Fabrice D.",
+      "x": 163.67343139648438,
+      "y": -135.10305786132812,
+      "id": "165",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Arnaud L. H.",
+      "x": 187.8133544921875,
+      "y": 177.6655731201172,
+      "id": "110",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Kamil M.",
+      "x": 140.07969665527344,
+      "y": 161.51742553710938,
+      "id": "172",
+      "attributes": {
+        "node type": "Individual",
+        "web link": "<a href='https://www.linkedin.com/in/kamil-maslana-23573227/' target='_blank'>LinkedIn profile</a>"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Leila R.",
+      "x": -46.86330032348633,
+      "y": 206.171630859375,
+      "id": "207",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Andrew T.",
+      "x": -241.57669067382812,
+      "y": -22.302696228027344,
+      "id": "82",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Cryptosphere.be",
+      "x": 6.32739782333374,
+      "y": 16.871490478515625,
+      "id": "73",
+      "attributes": {
+        "one-liner description": "Building bridges between blockchain and people",
+        "node type": "Pure play company",
+        "web link": "<a href='http://cryptosphere.be/' target='_blank'>Company website</a>",
+        "location": "Brussels"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 3
+    },
+    {
+      "label": "Willem V.d.W.",
+      "x": 88.76486206054688,
+      "y": -406.8048400878906,
+      "id": "177",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Kevin L.",
+      "x": -344.01220703125,
+      "y": -135.65655517578125,
+      "id": "145",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "David C.",
+      "x": -121.7418441772461,
+      "y": -224.24734497070312,
+      "id": "52",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Nicolas V.",
+      "x": 339.3817138671875,
+      "y": 13.989105224609375,
+      "id": "55",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Renaud V.",
+      "x": 63.16001510620117,
+      "y": 307.626953125,
+      "id": "102",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Benoît V.",
+      "x": 191.98947143554688,
+      "y": -332.125732421875,
+      "id": "185",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Florence N.",
+      "x": -276.377685546875,
+      "y": 108.61629486083984,
+      "id": "32",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Filip F.",
+      "x": -273.1140441894531,
+      "y": -196.3738555908203,
+      "id": "146",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Hive Blockchain Society",
+      "x": 383.3608703613281,
+      "y": -195.66065979003906,
+      "id": "5",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='http://hive.brussels/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 14.428571701049805
+    },
+    {
+      "label": "Blockchain Belgium",
+      "x": -253.51515197753906,
+      "y": -274.4417724609375,
+      "id": "37",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='http://blockchainbelgium.be/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 28.14285659790039
+    },
+    {
+      "label": "KeyRock",
+      "x": 294.08270263671875,
+      "y": 49.30522155761719,
+      "id": "3",
+      "attributes": {
+        "one-liner description": "Building an efficient and accessible crypto market",
+        "node type": "Pure play company",
+        "web link": "<a href='https://keyrock.eu/' target='_blank'>Company website</a>",
+        "contact": "info@keyrock.eu",
+        "location": "Brussels"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 28.14285659790039
+    },
+    {
+      "label": "TheLedger",
+      "x": -382.72491455078125,
+      "y": 3.3639068603515625,
+      "id": "21",
+      "attributes": {
+        "one-liner description": "We implement and build blockchain applications for enterprises and governments",
+        "node type": "Pure play company",
+        "web link": "<a href='https://theledger.be/' target='_blank'>Company website</a>",
+        "contact": "hello@theledger.be",
+        "location": "Kontich"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 28.14285659790039
+    },
+    {
+      "label": "CryptoCafé",
+      "x": 182.78469848632812,
+      "y": -11.609580993652344,
+      "id": "34",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://digityser.org/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Stad Antwerpen",
+      "x": 452.7992858886719,
+      "y": 2.1083831787109375,
+      "id": "41",
+      "attributes": {
+        "node type": "Govt or industry body",
+        "web link": "<a href='https://www.antwerpen.be' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Renée S.",
+      "x": -92.06198120117188,
+      "y": -146.05775451660156,
+      "id": "181",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Toon C.",
+      "x": -169.55123901367188,
+      "y": 299.36981201171875,
+      "id": "43",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Olivier R.",
+      "x": 69.09014892578125,
+      "y": 95.98173522949219,
+      "id": "152",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "DatabrokerDAO",
+      "x": 213.1664581298828,
+      "y": -373.8583984375,
+      "id": "7",
+      "attributes": {
+        "node type": "Pure play company",
+        "web link": "<a href='https://databrokerdao.com/' target='_blank'>Company website</a>",
+        "contact": "",
+        "location": "Antwerp"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Davy R.",
+      "x": -454.5779113769531,
+      "y": -133.125732421875,
+      "id": "215",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Aymerick T.",
+      "x": 419.4188537597656,
+      "y": -137.8451690673828,
+      "id": "17",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Vincent H.",
+      "x": 59.50434494018555,
+      "y": 231.67193603515625,
+      "id": "171",
+      "attributes": {
+        "node type": "Individual",
+        "web link": "<a href='https://www.linkedin.com/in/vincent-hdb/' target='_blank'>LinkedIn profile</a>"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Renat X.",
+      "x": 214.35287475585938,
+      "y": 151.53985595703125,
+      "id": "112",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Bram M.",
+      "x": -103.87767028808594,
+      "y": 214.1690673828125,
+      "id": "127",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Roland Berger",
+      "x": -25.042797088623047,
+      "y": -130.99673461914062,
+      "id": "140",
+      "attributes": {
+        "node type": "Company",
+        "web link": "<a href='https://www.rolandberger.com/en/' target='_blank'>Company website</a>"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Illia P.",
+      "x": -339.37664794921875,
+      "y": 162.57998657226562,
+      "id": "192",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Lauwers & Seutin",
+      "x": 52.408477783203125,
+      "y": -348.0135803222656,
+      "id": "150",
+      "attributes": {
+        "node type": "Professional services & advisors",
+        "web link": "<a href='https://www.lauwers-seutin.be' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Blockchain Brussels Meetup",
+      "x": -22.206737518310547,
+      "y": 313.0643310546875,
+      "id": "103",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://www.meetup.com/fr-FR/Blockchain-Brussels/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Kurt C.",
+      "x": 210.553955078125,
+      "y": 91.2027816772461,
+      "id": "131",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Kenny V.",
+      "x": -33.741722106933594,
+      "y": 142.48291015625,
+      "id": "126",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jan V.",
+      "x": 418.2057800292969,
+      "y": -21.769756317138672,
+      "id": "122",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Howest",
+      "x": 295.0527038574219,
+      "y": 150.05154418945312,
+      "id": "130",
+      "attributes": {
+        "node type": "University",
+        "web link": "<a href='https://www.howest.be/nl/opleidingen/bachelor/toegepaste-informatica/blockchain-developer-and-architect-at-home' target='_blank'>website</a>"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Anis H.",
+      "x": -67.33969116210938,
+      "y": -127.89508056640625,
+      "id": "208",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 3
+    },
+    {
+      "label": "BigchainDB",
+      "x": 90.29888153076172,
+      "y": 41.043670654296875,
+      "id": "136",
+      "attributes": {
+        "node type": "Non-BE pure play company",
+        "web link": "<a href='https://www.bigchaindb.com/' target='_blank'>website</a>"
+      },
+      "color": "rgb(192,192,192)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Olivier B.",
+      "x": -245.03355407714844,
+      "y": 112.56932830810547,
+      "id": "28",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Benoît F.",
+      "x": -33.98612976074219,
+      "y": -343.7012634277344,
+      "id": "168",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Yves M.",
+      "x": -137.8238983154297,
+      "y": 242.18295288085938,
+      "id": "149",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Cegeka",
+      "x": -30.308483123779297,
+      "y": -45.83082580566406,
+      "id": "163",
+      "attributes": {
+        "node type": "Company",
+        "web link": "<a href='https://www.cegeka.com/be/en' target='_blank'>Company website</a>"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Filip M.",
+      "x": -212.24453735351562,
+      "y": 219.38720703125,
+      "id": "74",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Alexander S.",
+      "x": -69.6104736328125,
+      "y": -251.8950653076172,
+      "id": "50",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Lorenz B.",
+      "x": -195.02496337890625,
+      "y": 262.8421630859375,
+      "id": "42",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "DS Avocats",
+      "x": 9.779541015625,
+      "y": -330.9547424316406,
+      "id": "176",
+      "attributes": {
+        "node type": "Professional services & advisors",
+        "web link": "<a href='http://www.ds-avocats.com/' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jean-Luc V.",
+      "x": 324.52874755859375,
+      "y": -116.5164794921875,
+      "id": "14",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Hey",
+      "x": -147.9462127685547,
+      "y": -373.2190856933594,
+      "id": "12",
+      "attributes": {
+        "one-liner description": "Making the internet better, together",
+        "node type": "Pure play company",
+        "web link": "<a href='https://get-hey.com/' target='_blank'>Company website</a>",
+        "contact": "info@get-hey.com",
+        "location": "La Hulpe"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 28.14285659790039
+    },
+    {
+      "label": "EY",
+      "x": 47.74359130859375,
+      "y": -228.55064392089844,
+      "id": "39",
+      "attributes": {
+        "node type": "Company",
+        "web link": "<a href='http://www.ey.com/be/en/home' target='_blank'>Company website</a>"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Fujitsu Blockchain Innovation Center",
+      "x": 167.60992431640625,
+      "y": 354.07293701171875,
+      "id": "209",
+      "attributes": {
+        "node type": "Company"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 3
+    },
+    {
+      "label": "Hyperledger",
+      "x": 155.8104248046875,
+      "y": 210.33660888671875,
+      "id": "162",
+      "attributes": {
+        "node type": "Open-source project",
+        "web link": "<a href='https://www.hyperledger.org/' target='_blank'>website</a>"
+      },
+      "color": "rgb(192,192,192)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Steve D.",
+      "x": -256.6158142089844,
+      "y": 80.69692993164062,
+      "id": "30",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Opus Labs (Delta)",
+      "x": -259.7295227050781,
+      "y": 300.05853271484375,
+      "id": "38",
+      "attributes": {
+        "one-liner description": "The best Bitcoin, ICO & cryptocurrency portfolio tracker. Everywhere.",
+        "node type": "Pure play company",
+        "web link": "<a href='https://getdelta.io/' target='_blank'>Company website</a>",
+        "contact": "hello@getdelta.io",
+        "location": "Ghent"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 14.428571701049805
+    },
+    {
+      "label": "Damien T.",
+      "x": 292.53082275390625,
+      "y": 186.20957946777344,
+      "id": "105",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Filip R.",
+      "x": 229.25218200683594,
+      "y": 325.2545166015625,
+      "id": "98",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Chris D.",
+      "x": 125.15471649169922,
+      "y": 308.08184814453125,
+      "id": "95",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Thomas S.",
+      "x": 140.86248779296875,
+      "y": 280.8797912597656,
+      "id": "90",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Blockchain/Ethereum Brussels Meetup",
+      "x": -151.49525451660156,
+      "y": 38.298988342285156,
+      "id": "113",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://www.meetup.com/fr-FR/Meetup-Blockchain-Ethereum-Bruxelles/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Blockchain Association of Belgium",
+      "x": -185.1579132080078,
+      "y": -153.70138549804688,
+      "id": "4",
+      "attributes": {
+        "node type": "Govt or industry body",
+        "web link": "<a href='http://www.blockchainassociation.be/' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "Laurent G.",
+      "x": -74.3404541015625,
+      "y": -365.643310546875,
+      "id": "180",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Stampify",
+      "x": -369.91461181640625,
+      "y": 82.70868682861328,
+      "id": "1",
+      "attributes": {
+        "one-liner description": "We want to create a frictionless business world and it starts with governance",
+        "node type": "Pure play company",
+        "web link": "<a href='https://stampify.me/' target='_blank'>Company website</a>",
+        "contact": "info@stampify.me"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 21.285715103149414
+    },
+    {
+      "label": "Jonas S.",
+      "x": -311.4867248535156,
+      "y": -103.81234741210938,
+      "id": "116",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Corporify",
+      "x": -166.7290496826172,
+      "y": -54.132328033447266,
+      "id": "200",
+      "attributes": {
+        "one-liner description": "Corporify offers a highly secure cloud based platform to simplify the legal management of companies.  Dealing with legal compliance, corporate governance and risk management is a complex, time consuming and expensive matter. Therefore, we offer lean processes and automation in legal asset management to help your business saving time and money.",
+        "node type": "Pure play company",
+        "web link": "<a href='https://www.corporify.com/' target='_blank'>Company website</a>",
+        "contact": "info@corporify.com",
+        "location": "Buggenhout"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Finoryx",
+      "x": 39.00437545776367,
+      "y": 71.06993103027344,
+      "id": "85",
+      "attributes": {
+        "one-liner description": "Finoryx is the leader in Blockchain solutions applied to Capital Markets, and is active at the crossroads of business vision and technology revolution.",
+        "node type": "Pure play company",
+        "web link": "<a href='http://www.finoryx.com/' target='_blank'>Company website</a>",
+        "location": "Brussels"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Arne B.",
+      "x": 90.65280151367188,
+      "y": 249.75450134277344,
+      "id": "96",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Pascal V.",
+      "x": 88.8248291015625,
+      "y": -109.6598892211914,
+      "id": "154",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Guillaume V.",
+      "x": 352.9156799316406,
+      "y": -69.62195587158203,
+      "id": "18",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Bitcoin, the Blockchain and Beyond",
+      "x": 301.38629150390625,
+      "y": -152.97264099121094,
+      "id": "8",
+      "attributes": {
+        "node type": "Education & Books",
+        "web link": "<a href='https://www.bitcoinblockchainbook.com/' target='_blank'>website</a>"
+      },
+      "color": "rgb(211,179,176)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "David S.",
+      "x": 156.35386657714844,
+      "y": 65.90220642089844,
+      "id": "111",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jüri L.",
+      "x": -282.9056396484375,
+      "y": 196.85755920410156,
+      "id": "194",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "KULeuven",
+      "x": -135.03182983398438,
+      "y": 330.7141418457031,
+      "id": "93",
+      "attributes": {
+        "node type": "University",
+        "web link": "<a href='https://www.kuleuven.be/kuleuven/' target='_blank'>website</a>"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 12.142857551574707
+    },
+    {
+      "label": "Gilles Q.",
+      "x": -18.23693084716797,
+      "y": 95.41607666015625,
+      "id": "142",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Luara S.",
+      "x": -53.193511962890625,
+      "y": -282.7783203125,
+      "id": "174",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Ricardo X.",
+      "x": 225.64202880859375,
+      "y": -37.36446762084961,
+      "id": "35",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "SettleMint",
+      "x": 292.1600341796875,
+      "y": -313.8150634765625,
+      "id": "2",
+      "attributes": {
+        "one-liner description": "We make building blockchain applications easy for IT teams",
+        "node type": "Pure play company",
+        "web link": "<a href='https://settlemint.com/' target='_blank'>Company website</a>",
+        "contact": "hello@settlemint.com ",
+        "location": "Leuven"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 35
+    },
+    {
+      "label": "Sofie V. W.",
+      "x": -263.8377685546875,
+      "y": 214.8016357421875,
+      "id": "191",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Steve M.",
+      "x": -424.1853332519531,
+      "y": -155.5185089111328,
+      "id": "218",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Filippo P.",
+      "x": 367.3895568847656,
+      "y": 109.19175720214844,
+      "id": "60",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Pieter A.",
+      "x": -308.7859802246094,
+      "y": 2.783649444580078,
+      "id": "83",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Arnaud K.",
+      "x": 103.6384048461914,
+      "y": 283.3691711425781,
+      "id": "99",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Roeland G.",
+      "x": 16.81690216064453,
+      "y": -86.67782592773438,
+      "id": "108",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "David B.",
+      "x": 93.09187316894531,
+      "y": 316.05682373046875,
+      "id": "100",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "CryptoBeleggers",
+      "x": -232.76901245117188,
+      "y": -82.3411865234375,
+      "id": "182",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://cryptobeleggers.com/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "White & Case LLP",
+      "x": 159.99172973632812,
+      "y": -393.8091125488281,
+      "id": "178",
+      "attributes": {
+        "node type": "Professional services & advisors",
+        "web link": "<a href='https://www.whitecase.com' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,85,132)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Pierre B.",
+      "x": -63.45257568359375,
+      "y": -118.23942565917969,
+      "id": "139",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Brecht D.",
+      "x": -95.14846801757812,
+      "y": 100.26506042480469,
+      "id": "124",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Giorgi R.",
+      "x": -252.6441192626953,
+      "y": 141.78477478027344,
+      "id": "193",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "T-mining",
+      "x": 92.3873062133789,
+      "y": -136.93606567382812,
+      "id": "153",
+      "attributes": {
+        "one-liner description": "T-mining improves efficiency in logistics and transport by better data sharing and secure title transfer, using blockchain technology.",
+        "node type": "Pure play company",
+        "web link": "<a href='http://www.t-mining.be' target='_blank'>Company website</a>",
+        "contact": "info@t-mining.be",
+        "location": "Antwerp"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Dimitri V.",
+      "x": 376.6026306152344,
+      "y": 52.76549530029297,
+      "id": "121",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Geraud M.",
+      "x": -132.3000946044922,
+      "y": -177.3731231689453,
+      "id": "78",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Benjamin X.",
+      "x": -163.06967163085938,
+      "y": 3.9936273097991943,
+      "id": "114",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Nico W.",
+      "x": 115.84352111816406,
+      "y": -156.904541015625,
+      "id": "155",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Orillia",
+      "x": 320.5627746582031,
+      "y": 266.57177734375,
+      "id": "86",
+      "attributes": {
+        "one-liner description": "We have the first network of Bitcoin ATM machines in Belgium. Grown from enthousiasts to experts, we provide services for professionals in need for support with Blockchain technology.",
+        "node type": "Pure play company",
+        "web link": "<a href='https://www.orillia.be/' target='_blank'>Company website</a>",
+        "contact": "info@orillia.be",
+        "location": "Laarne"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 12.142857551574707
+    },
+    {
+      "label": "Werner V. L.",
+      "x": 0.684661865234375,
+      "y": -371.60186767578125,
+      "id": "179",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Nikita S.",
+      "x": -269.19732666015625,
+      "y": 169.1306610107422,
+      "id": "188",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Quentin D.",
+      "x": 294.0368347167969,
+      "y": -192.71351623535156,
+      "id": "19",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Steve D.",
+      "x": -298.1451416015625,
+      "y": 25.203445434570312,
+      "id": "204",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Thomas V.",
+      "x": -3.110992431640625,
+      "y": -261.5078125,
+      "id": "10",
+      "attributes": {
+        "node type": "Individual",
+        "web link": "<a href='https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/' target='_blank'>LinkedIn profile</a>"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Thomas M.",
+      "x": -360.8448181152344,
+      "y": -71.18142700195312,
+      "id": "45",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "ChainSkills",
+      "x": 43.915836334228516,
+      "y": 154.78558349609375,
+      "id": "6",
+      "attributes": {
+        "node type": "Education & Books",
+        "web link": "<a href='http://chainskills.com/fr/' target='_blank'>website</a>"
+      },
+      "color": "rgb(211,179,176)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Jeremy D. G.",
+      "x": 318.7110900878906,
+      "y": -13.008186340332031,
+      "id": "20",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Stephan P.",
+      "x": -32.29268264770508,
+      "y": 268.8702392578125,
+      "id": "199",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Roderik v.d.V.",
+      "x": 232.17868041992188,
+      "y": -195.74139404296875,
+      "id": "62",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jens M.",
+      "x": -100.44065856933594,
+      "y": 175.67845153808594,
+      "id": "125",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jonathan D.",
+      "x": 279.2535095214844,
+      "y": -29.200782775878906,
+      "id": "58",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Fintech Belgium",
+      "x": -11.539827346801758,
+      "y": 11.890047073364258,
+      "id": "84",
+      "attributes": {
+        "node type": "Govt or industry body",
+        "web link": "<a href='https://fintechbelgium.be/' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 3
+    },
+    {
+      "label": "Bitcoin Liège",
+      "x": 42.09480285644531,
+      "y": 201.68490600585938,
+      "id": "210",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://www.meetup.com/fr-FR/Bitcoin-Liege/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Jérémie D.",
+      "x": 10.577079772949219,
+      "y": 357.47406005859375,
+      "id": "97",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 9.85714340209961
+    },
+    {
+      "label": "IntellectEU",
+      "x": 1.942070722579956,
+      "y": -15.865499496459961,
+      "id": "94",
+      "attributes": {
+        "one-liner description": "Our core is financial integration  and middleware solutions",
+        "node type": "Pure play company",
+        "web link": "<a href='https://www.intellecteu.com/' target='_blank'>Company website</a>",
+        "contact": "info@intellecteu.com",
+        "location": "Diegem"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 3
+    },
+    {
+      "label": "Nicolas X.",
+      "x": -145.39334106445312,
+      "y": 70.69761657714844,
+      "id": "115",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "OceanLab",
+      "x": 90.97285461425781,
+      "y": -79.42918395996094,
+      "id": "167",
+      "attributes": {
+        "one-liner description": "Oceanlabs is a project aimed at building simple and easy applications on top of the Waves blockchain.",
+        "node type": "Pure play company",
+        "web link": "<a href='https://www.oceanlab.eu/' target='_blank'>Company website</a>",
+        "location": "Piétrain"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Bit Engineering",
+      "x": -226.86854553222656,
+      "y": 19.805458068847656,
+      "id": "206",
+      "attributes": {
+        "one-liner description": "Educate citizens, medias, politics, businesses & education about the use of Bitcoin Technology",
+        "node type": "Education & Books"
+      },
+      "color": "rgb(211,179,176)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jennifer G.",
+      "x": 257.09552001953125,
+      "y": 80.20521545410156,
+      "id": "57",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Sebastien A.",
+      "x": 2.6061630249023438,
+      "y": 188.64683532714844,
+      "id": "25",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Claudiu M.",
+      "x": -193.60601806640625,
+      "y": -211.00473022460938,
+      "id": "46",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Didier G.",
+      "x": 119.50506591796875,
+      "y": -373.69866943359375,
+      "id": "184",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Philippe V. I.",
+      "x": 102.44298553466797,
+      "y": -23.261354446411133,
+      "id": "197",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Sofitto",
+      "x": -330.2774353027344,
+      "y": 201.5000762939453,
+      "id": "186",
+      "attributes": {
+        "one-liner description": "Sofitto seeks a fusion of Chain Block technology with conventional credit card products by developing the 'Sofitto card. The Sofitto card provides an independent store of value directly on the map, making the traditional card and payment system is disrupted. With only marginal infrastructure costs and transaction costs, the new credit card will enter the barrier to reduce banking services, while reducing maintenance costs that apply to conventional financial networks.  ",
+        "node type": "Pure play company",
+        "web link": "<a href='https://sofitto.com/' target='_blank'>Company website</a>",
+        "contact": "info@sofitto.com",
+        "location": "Leuven"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 23.571428298950195
+    },
+    {
+      "label": "Rain L.",
+      "x": -298.8692321777344,
+      "y": 228.78353881835938,
+      "id": "195",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Derek R.",
+      "x": -125.54602813720703,
+      "y": -135.52850341796875,
+      "id": "13",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Els M.",
+      "x": 148.86578369140625,
+      "y": -195.2934112548828,
+      "id": "64",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Benjamin V.",
+      "x": -80.35082244873047,
+      "y": 248.73963928222656,
+      "id": "128",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Astrid J.",
+      "x": 172.76641845703125,
+      "y": -216.67340087890625,
+      "id": "70",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Katleen D.",
+      "x": -377.32135009765625,
+      "y": -118.2358169555664,
+      "id": "143",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Thibault V.",
+      "x": -13.849380493164062,
+      "y": -316.4267883300781,
+      "id": "175",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Said E.",
+      "x": 35.264915466308594,
+      "y": 125.09760284423828,
+      "id": "26",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Kevin D. P.",
+      "x": 226.9945526123047,
+      "y": 44.180809020996094,
+      "id": "11",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Carlo W.",
+      "x": 200.01559448242188,
+      "y": -87.3361587524414,
+      "id": "36",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Lan F.",
+      "x": -286.88861083984375,
+      "y": 138.90859985351562,
+      "id": "190",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jean W.",
+      "x": 72.63716125488281,
+      "y": 277.54443359375,
+      "id": "89",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Karsten F.",
+      "x": -370.42889404296875,
+      "y": -170.59384155273438,
+      "id": "147",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Joris H.",
+      "x": 26.105892181396484,
+      "y": 239.31600952148438,
+      "id": "213",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Bernard L.",
+      "x": -237.85867309570312,
+      "y": 55.05257034301758,
+      "id": "29",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Andries V.",
+      "x": -340.525146484375,
+      "y": -17.304489135742188,
+      "id": "211",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Pierre-Alexandre K.",
+      "x": -88.95217895507812,
+      "y": -226.99758911132812,
+      "id": "48",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Tom B.",
+      "x": 153.69747924804688,
+      "y": -279.20220947265625,
+      "id": "65",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Gianni B.",
+      "x": -272.6488037109375,
+      "y": -73.24895477294922,
+      "id": "81",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Daniël S.",
+      "x": -94.69638061523438,
+      "y": -4.666980743408203,
+      "id": "134",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "FundRequest",
+      "x": -420.4861755371094,
+      "y": -94.34126281738281,
+      "id": "220",
+      "attributes": {
+        "one-liner description": "FundRequest introduces an easy and secure way to reward bugfixes and feature builds on any project.  FundRequest is a system for custom support that will boost the Open Source community as a whole – from developer to end user.",
+        "node type": "Pure play company",
+        "web link": "<a href='https://fundrequest.io/' target='_blank'>Company website</a>",
+        "contact": "info@fundrequest.io"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 16.71428680419922
+    },
+    {
+      "label": "Juan D. M.",
+      "x": 360.57476806640625,
+      "y": 36.287261962890625,
+      "id": "54",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Belgian Bitcoin Association",
+      "x": 144.30029296875,
+      "y": 355.5464782714844,
+      "id": "88",
+      "attributes": {
+        "node type": "Govt or industry body",
+        "web link": "<a href='http://bitcoinassociation.be/' target='_blank'>website</a>"
+      },
+      "color": "rgb(255,136,5)",
+      "size": 25.85714340209961
+    },
+    {
+      "label": "Thomas L.",
+      "x": -145.43667602539062,
+      "y": -244.1952362060547,
+      "id": "53",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Laurent K.",
+      "x": -223.80712890625,
+      "y": 88.2782211303711,
+      "id": "27",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Olivier S.",
+      "x": 39.45949935913086,
+      "y": -60.28176498413086,
+      "id": "166",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Pàu",
+      "x": 21.167186737060547,
+      "y": 282.8100280761719,
+      "id": "212",
+      "attributes": {
+        "node type": "Company",
+        "web link": "<a href='https://pau.be' target='_blank'>Company website</a>"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Block0",
+      "x": -329.2738037109375,
+      "y": 39.045066833496094,
+      "id": "203",
+      "attributes": {
+        "one-liner description": "Think outside the block.  Blockchain solutions for ICO • Digital Currency Smart Contract • Tokenized Asset • Marketplace Self-Sovereign Identity • Decentralized Governance",
+        "node type": "Pure play company",
+        "web link": "<a href='http://www.block0.io/' target='_blank'>Company website</a>",
+        "contact": "info@block0.io",
+        "location": "Walhain"
+      },
+      "color": "rgb(115,192,0)",
+      "size": 7.5714287757873535
+    },
+    {
+      "label": "Mathieu J.",
+      "x": -195.47293090820312,
+      "y": 25.49603271484375,
+      "id": "205",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Université Catholique de Louvain",
+      "x": -100.64920806884766,
+      "y": -67.89622497558594,
+      "id": "40",
+      "attributes": {
+        "node type": "University",
+        "web link": "<a href='https://uclouvain.be/fr/index.html' target='_blank'>website</a>"
+      },
+      "color": "rgb(0,189,148)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "Jo V.",
+      "x": 373.966064453125,
+      "y": 177.71746826171875,
+      "id": "106",
+      "attributes": {
+        "node type": "Individual"
+      },
+      "color": "rgb(223,137,255)",
+      "size": 12.142857551574707
+    },
+    {
+      "label": "Cryptominded",
+      "x": -63.19927215576172,
+      "y": 65.14425659179688,
+      "id": "9",
+      "attributes": {
+        "node type": "Community",
+        "web link": "<a href='https://cryptominded.com/' target='_blank'>Community website</a>"
+      },
+      "color": "rgb(0,196,255)",
+      "size": 5.285714149475098
+    },
+    {
+      "label": "IBM",
+      "x": 218.5619354248047,
+      "y": 259.3670654296875,
+      "id": "161",
+      "attributes": {
+        "node type": "Company",
+        "web link": "<a href='https://www.ibm.com/be-en/' target='_blank'>Company website</a>"
+      },
+      "color": "rgb(76,70,62)",
+      "size": 7.5714287757873535
+    }
+  ],
+  "edges": [
+    {
+      "source": "121",
+      "target": "3",
+      "id": "181",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "215",
+      "target": "220",
+      "id": "195",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "12",
+      "target": "52",
+      "id": "43",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "14",
+      "target": "5",
+      "id": "7",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "26",
+      "target": "6",
+      "id": "15",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "54",
+      "target": "3",
+      "id": "47",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "4",
+      "target": "77",
+      "id": "71",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "180",
+      "target": "157",
+      "id": "165",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "154",
+      "target": "153",
+      "id": "141",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "171",
+      "target": "169",
+      "id": "156",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "42",
+      "target": "38",
+      "id": "27",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "210",
+      "target": "170",
+      "id": "190",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "143",
+      "target": "37",
+      "id": "130",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "103",
+      "target": "97",
+      "id": "89",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "170",
+      "target": "169",
+      "id": "155",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "207",
+      "target": "198",
+      "id": "189",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "10",
+      "target": "12",
+      "id": "160",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "187",
+      "target": "186",
+      "id": "170",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "18",
+      "target": "5",
+      "id": "16",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "112",
+      "target": "109",
+      "id": "98",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "79",
+      "target": "14",
+      "id": "73",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "91",
+      "target": "40",
+      "id": "79",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "193",
+      "target": "186",
+      "id": "177",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "67",
+      "target": "2",
+      "id": "60",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "56",
+      "target": "3",
+      "id": "49",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "104",
+      "target": "86",
+      "id": "92",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "43",
+      "target": "38",
+      "id": "28",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "21",
+      "target": "45",
+      "id": "136",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "122",
+      "target": "120",
+      "id": "106",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "16",
+      "target": "2",
+      "id": "5",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "129",
+      "target": "24",
+      "id": "115",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "1",
+      "target": "29",
+      "id": "21",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "146",
+      "target": "37",
+      "id": "133",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "194",
+      "target": "186",
+      "id": "178",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "53",
+      "target": "12",
+      "id": "41",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "65",
+      "target": "2",
+      "id": "58",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "149",
+      "target": "93",
+      "id": "138",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "1",
+      "target": "32",
+      "id": "19",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "106",
+      "target": "120",
+      "id": "107",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "148",
+      "target": "37",
+      "id": "135",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "159",
+      "target": "39",
+      "id": "144",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "196",
+      "target": "34",
+      "id": "182",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "37",
+      "target": "45",
+      "id": "31",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "58",
+      "target": "3",
+      "id": "51",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "110",
+      "target": "109",
+      "id": "96",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "21",
+      "target": "116",
+      "id": "101",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "217",
+      "target": "220",
+      "id": "197",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "143",
+      "target": "21",
+      "id": "124",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "146",
+      "target": "21",
+      "id": "127",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "176",
+      "target": "175",
+      "id": "161",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "31",
+      "target": "1",
+      "id": "20",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "69",
+      "target": "2",
+      "id": "62",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "20",
+      "target": "3",
+      "id": "10",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "60",
+      "target": "3",
+      "id": "52",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "185",
+      "target": "183",
+      "id": "169",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "7",
+      "target": "2",
+      "id": "118",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "145",
+      "target": "37",
+      "id": "132",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "173",
+      "target": "12",
+      "id": "158",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "106",
+      "target": "3",
+      "id": "180",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "62",
+      "target": "2",
+      "id": "55",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "12",
+      "target": "50",
+      "id": "42",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "92",
+      "target": "93",
+      "id": "80",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "214",
+      "target": "220",
+      "id": "194",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "68",
+      "target": "2",
+      "id": "61",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "129",
+      "target": "41",
+      "id": "117",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "168",
+      "target": "157",
+      "id": "152",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "179",
+      "target": "157",
+      "id": "164",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "61",
+      "target": "3",
+      "id": "53",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "140",
+      "target": "139",
+      "id": "123",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "151",
+      "target": "150",
+      "id": "139",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "192",
+      "target": "186",
+      "id": "176",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "181",
+      "target": "156",
+      "id": "166",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "12",
+      "target": "49",
+      "id": "46",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "127",
+      "target": "93",
+      "id": "112",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "152",
+      "target": "85",
+      "id": "140",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "37",
+      "target": "22",
+      "id": "30",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "102",
+      "target": "88",
+      "id": "88",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "205",
+      "target": "206",
+      "id": "188",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "28",
+      "target": "1",
+      "id": "18",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "184",
+      "target": "183",
+      "id": "168",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "80",
+      "target": "82",
+      "id": "75",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "72",
+      "target": "2",
+      "id": "65",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "190",
+      "target": "186",
+      "id": "173",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "201",
+      "target": "200",
+      "id": "185",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "70",
+      "target": "2",
+      "id": "63",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "4",
+      "target": "78",
+      "id": "72",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "59",
+      "target": "2",
+      "id": "54",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "110",
+      "target": "161",
+      "id": "146",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "25",
+      "target": "6",
+      "id": "14",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "110",
+      "target": "162",
+      "id": "147",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "63",
+      "target": "2",
+      "id": "56",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "178",
+      "target": "177",
+      "id": "162",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "182",
+      "target": "23",
+      "id": "167",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "191",
+      "target": "186",
+      "id": "174",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "100",
+      "target": "88",
+      "id": "86",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "17",
+      "target": "5",
+      "id": "8",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "19",
+      "target": "5",
+      "id": "9",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "155",
+      "target": "153",
+      "id": "142",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "22",
+      "target": "21",
+      "id": "11",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "96",
+      "target": "88",
+      "id": "82",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "195",
+      "target": "186",
+      "id": "179",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "189",
+      "target": "186",
+      "id": "172",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "136",
+      "target": "135",
+      "id": "137",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "55",
+      "target": "3",
+      "id": "48",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "140",
+      "target": "138",
+      "id": "122",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "80",
+      "target": "83",
+      "id": "76",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "219",
+      "target": "220",
+      "id": "199",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "163",
+      "target": "164",
+      "id": "149",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "71",
+      "target": "2",
+      "id": "64",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "38",
+      "target": "76",
+      "id": "68",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "165",
+      "target": "167",
+      "id": "150",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "17",
+      "target": "24",
+      "id": "13",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "1",
+      "target": "30",
+      "id": "22",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "35",
+      "target": "34",
+      "id": "24",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "16",
+      "target": "5",
+      "id": "6",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "48",
+      "target": "12",
+      "id": "44",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "144",
+      "target": "21",
+      "id": "125",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "132",
+      "target": "129",
+      "id": "116",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "158",
+      "target": "157",
+      "id": "143",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "4",
+      "target": "13",
+      "id": "0",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "101",
+      "target": "88",
+      "id": "87",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "105",
+      "target": "86",
+      "id": "93",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "178",
+      "target": "7",
+      "id": "163",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "203",
+      "target": "1",
+      "id": "200",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "98",
+      "target": "88",
+      "id": "84",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "120",
+      "target": "41",
+      "id": "154",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "106",
+      "target": "130",
+      "id": "153",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "188",
+      "target": "186",
+      "id": "171",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "44",
+      "target": "39",
+      "id": "29",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "160",
+      "target": "39",
+      "id": "145",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "80",
+      "target": "81",
+      "id": "74",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "99",
+      "target": "88",
+      "id": "85",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "114",
+      "target": "113",
+      "id": "99",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "210",
+      "target": "171",
+      "id": "191",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "144",
+      "target": "37",
+      "id": "131",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "123",
+      "target": "120",
+      "id": "108",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "89",
+      "target": "88",
+      "id": "77",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "108",
+      "target": "107",
+      "id": "95",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "117",
+      "target": "9",
+      "id": "103",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "124",
+      "target": "118",
+      "id": "109",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "141",
+      "target": "142",
+      "id": "121",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "11",
+      "target": "3",
+      "id": "4",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "147",
+      "target": "21",
+      "id": "128",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "90",
+      "target": "88",
+      "id": "78",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "106",
+      "target": "86",
+      "id": "94",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "148",
+      "target": "21",
+      "id": "129",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "119",
+      "target": "118",
+      "id": "104",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "202",
+      "target": "200",
+      "id": "186",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "27",
+      "target": "1",
+      "id": "17",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "121",
+      "target": "120",
+      "id": "105",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "23",
+      "target": "21",
+      "id": "12",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "57",
+      "target": "3",
+      "id": "50",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "147",
+      "target": "37",
+      "id": "134",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "47",
+      "target": "12",
+      "id": "40",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "37",
+      "target": "116",
+      "id": "102",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "36",
+      "target": "34",
+      "id": "25",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "134",
+      "target": "133",
+      "id": "119",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "218",
+      "target": "220",
+      "id": "198",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "37",
+      "target": "23",
+      "id": "36",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "126",
+      "target": "118",
+      "id": "111",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "12",
+      "target": "51",
+      "id": "45",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "111",
+      "target": "109",
+      "id": "97",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "130",
+      "target": "131",
+      "id": "114",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "97",
+      "target": "137",
+      "id": "120",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "66",
+      "target": "2",
+      "id": "59",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "166",
+      "target": "167",
+      "id": "151",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "46",
+      "target": "37",
+      "id": "35",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "174",
+      "target": "12",
+      "id": "159",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "199",
+      "target": "198",
+      "id": "184",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "145",
+      "target": "21",
+      "id": "126",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "1",
+      "target": "33",
+      "id": "23",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "161",
+      "target": "162",
+      "id": "148",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "75",
+      "target": "38",
+      "id": "66",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "115",
+      "target": "113",
+      "id": "100",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "128",
+      "target": "93",
+      "id": "113",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "172",
+      "target": "169",
+      "id": "157",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "12",
+      "target": "15",
+      "id": "2",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "95",
+      "target": "88",
+      "id": "81",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "204",
+      "target": "203",
+      "id": "187",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "213",
+      "target": "212",
+      "id": "193",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "38",
+      "target": "74",
+      "id": "67",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "196",
+      "target": "197",
+      "id": "183",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "64",
+      "target": "2",
+      "id": "57",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "216",
+      "target": "220",
+      "id": "196",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "98",
+      "target": "86",
+      "id": "90",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "125",
+      "target": "118",
+      "id": "110",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "8",
+      "target": "14",
+      "id": "1",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "10",
+      "target": "0",
+      "id": "3",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "97",
+      "target": "88",
+      "id": "83",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    },
+    {
+      "source": "211",
+      "target": "21",
+      "id": "192",
+      "attributes": {},
+      "color": "rgb(192,192,192)",
+      "size": 1
+    }
+  ]
+}
