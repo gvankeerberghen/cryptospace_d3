@@ -13,10 +13,12 @@ const FORCE_STRENGTH = -15;
 const FORCE_LINK_STRENGTH = 2;
 const MAX_DISTANCE = 150;
 
-const LABEL_ANCHOR_FORCE_STRENGTH = -1;
-const LABEL_ANCHOR_MAX_DISTANCE = 40;
+const LABEL_ANCHOR_FORCE_STRENGTH = -20;
+const LABEL_ANCHOR_MAX_DISTANCE = 60;
 const LABEL_ANCHOR_LINK_DISTANCE = 2;
 const LABEL_ANCHOR_LINK_STRENGTH = 2;
+
+const FADED_OPACITY = 0.2;
 
 const svg = d3.select('svg'),
     width = +svg.attr('width'),
@@ -51,7 +53,7 @@ const simulationLabels = d3.forceSimulation()
 
 d3.json('data/transformed.json').then( graph => {
   const labelAnchors = flatMap(
-    node => node.group != 'Individual' ? [{node: node}, {node: node}] : []
+    node => [{node: node}, {node: node}]
     ,
     graph.nodes
   );
@@ -84,8 +86,8 @@ d3.json('data/transformed.json').then( graph => {
     .enter().append('circle')
       .attr('r', d => d.group === 'Individual' ? 4 : 8)
       .style('fill', d => color(d.group))
-      .on('mouseover', setNonNeighboursOpacity(0.2))
-      .on('mouseout', setNonNeighboursOpacity(1))
+      .on('mouseover', setHighlightNeighbours(true))
+      .on('mouseout', setHighlightNeighbours(false))
       .call(d3.drag()
           .on('start', dragstarted)
           .on('drag', dragged)
@@ -109,7 +111,9 @@ d3.json('data/transformed.json').then( graph => {
    anchorNode.append('circle').attr('r', 0);
    anchorNode.append('text')
     .attr('class', 'label')
-    .text((d, i) => i % 2 == 0 ? '' : d.node.label);
+    .attr('pointer-events', 'none')
+    .text((d, i) => i % 2 == 0 ? '' : d.node.label)
+    .style('visibility', d => d.node.group == 'Individual' ? 'hidden' : 'visible' );
 
   simulation
     .nodes(graph.nodes);
@@ -205,23 +209,32 @@ d3.json('data/transformed.json').then( graph => {
       return linkedByIndex[a.index + "," + b.index] || linkedByIndex[b.index + "," + a.index] || a.index == b.index;
   }
 
-  function setNonNeighboursOpacity(opacity) {
+  function setHighlightNeighbours(status) {
     return function(originNodeData) {
       node.each(function(nodeData, j) {
-        const thisOpacity = isConnected(originNodeData, nodeData) ? 1 : opacity;
+        const thisOpacity = !status || isConnected(originNodeData, nodeData) ? 1 : FADED_OPACITY;
 
         d3.select(this)
           .style('stroke-opacity', thisOpacity)
           .style('fill-opacity', thisOpacity);
       });
 
-      link.style('stroke-opacity', d =>
-        d.source.index === originNodeData.index ||
-          d.target.index === originNodeData.index ? 1 : opacity
+      link.style('stroke-opacity', d => !status ||
+        (d.source.index === originNodeData.index ||
+          d.target.index === originNodeData.index) ? 1 : FADED_OPACITY
       );
 
       anchorNode.select('text')
-        .style('opacity', d => d.node.index === originNodeData.index ? 1 : opacity)
+        .style('visibility', d => {
+          if (status) {
+            return isConnected(originNodeData, d.node) ? 'visible' : 'hidden';
+          } else {
+            return d.node.group != 'Individual' ? 'visible' : 'hidden';
+          }
+        })
+        .style('font-weight', d =>
+          status && originNodeData.index === d.node.index ? 'bold' : 'normal'
+        );
     };
   }
 })
