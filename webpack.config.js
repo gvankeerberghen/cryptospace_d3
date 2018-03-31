@@ -19,6 +19,9 @@ module.exports = {
     path: paths.dist,
     publicPath: '/',
   },
+  optimization: {
+    minimize: false
+  },
   module: {
     rules: [
       {
