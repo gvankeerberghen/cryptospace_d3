@@ -5,7 +5,7 @@ const {
   fromPairs,
   map,
   range,
-  uniq 
+  uniq
 } = require('lodash/fp');
 
 const BORDER_PADDING = 6;
@@ -105,7 +105,7 @@ d3.json('data/transformed.json').then( graph => {
       .append('g')
       .attr('class', 'anchorNode')
       .attr('i', (d, i) => i );
-   
+
    anchorNode.append('circle').attr('r', 0);
    anchorNode.append('text')
     .attr('class', 'label')
@@ -118,7 +118,8 @@ d3.json('data/transformed.json').then( graph => {
     .force('link')
     .links(graph.links);
 
-  // Has to happen after passing to link force as that will replace source and target with the object
+  // Has to happen after passing nodes and links to forces as they will
+  // add index and replace source and target with the corresponding node object
   const linkedByIndex = fromPairs(map(
     link => [link.source.index + ',' + link.target.index, true],
     graph.links
@@ -174,9 +175,9 @@ d3.json('data/transformed.json').then( graph => {
       .attr('x1', d => d.source.x )
       .attr('y1', d => d.source.y )
       .attr('x2', d => d.target.x )
-      .attr('y2', d => d.target.y );  
+      .attr('y2', d => d.target.y );
   }
-  
+
   function dragstarted(d) {
     if (!d3.event.active) {
       simulation.alphaTarget(0.1).restart();
@@ -185,14 +186,14 @@ d3.json('data/transformed.json').then( graph => {
     d.fx = d.x;
     d.fy = d.y;
   }
-  
+
   function dragged(d) {
     d.fx = d3.event.x;
     d.fy = d3.event.y;
   }
-  
+
   function dragended(d) {
-    d.fx = null; 
+    d.fx = null;
     d.fy = null;
     if (!d3.event.active) {
       simulation.alphaTarget(0);
@@ -205,16 +206,19 @@ d3.json('data/transformed.json').then( graph => {
   }
 
   function setNonNeighboursOpacity(opacity) {
-    return function(d) {
-        node.style("stroke-opacity", function(o) {
-            const thisOpacity = isConnected(d, o) ? 1 : opacity;
-            this.setAttribute('fill-opacity', thisOpacity);
-            return thisOpacity;
-        });
+    return function(originNodeData) {
+      node.each(function(nodeData, j) {
+        const thisOpacity = isConnected(originNodeData, nodeData) ? 1 : opacity;
 
-        link.style("stroke-opacity", function(o) {
-            return o.source === d || o.target === d ? 1 : opacity;
-        });
+        d3.select(this)
+          .style('stroke-opacity', thisOpacity)
+          .style('fill-opacity', thisOpacity);
+      });
+
+      link.style('stroke-opacity', d =>
+        d.source.index === originNodeData.index ||
+          d.target.index === originNodeData.index ? 1 : opacity
+      );
     };
   }
 })
