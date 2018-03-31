@@ -219,6 +219,9 @@ d3.json('data/transformed.json').then( graph => {
         d.source.index === originNodeData.index ||
           d.target.index === originNodeData.index ? 1 : opacity
       );
+
+      anchorNode.select('text')
+        .style('opacity', d => d.node.index === originNodeData.index ? 1 : opacity)
     };
   }
 })
