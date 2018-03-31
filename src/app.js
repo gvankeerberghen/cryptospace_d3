@@ -1,16 +1,24 @@
 import * as d3 from 'd3'
 
-const { flatMap, map, range, uniq } = require('lodash/fp');
+const {
+  flatMap,
+  fromPairs,
+  map,
+  range,
+  uniq
+} = require('lodash/fp');
 
 const BORDER_PADDING = 6;
 const FORCE_STRENGTH = -15;
 const FORCE_LINK_STRENGTH = 2;
 const MAX_DISTANCE = 150;
 
-const LABEL_ANCHOR_FORCE_STRENGTH = -1;
-const LABEL_ANCHOR_MAX_DISTANCE = 40;
+const LABEL_ANCHOR_FORCE_STRENGTH = -20;
+const LABEL_ANCHOR_MAX_DISTANCE = 60;
 const LABEL_ANCHOR_LINK_DISTANCE = 2;
 const LABEL_ANCHOR_LINK_STRENGTH = 2;
+
+const FADED_OPACITY = 0.2;
 
 const svg = d3.select('svg'),
     width = +svg.attr('width'),
@@ -45,7 +53,7 @@ const simulationLabels = d3.forceSimulation()
 
 d3.json('data/transformed.json').then( graph => {
   const labelAnchors = flatMap(
-    node => node.group != 'Individual' ? [{node: node}, {node: node}] : []
+    node => [{node: node}, {node: node}]
     ,
     graph.nodes
   );
@@ -78,6 +86,8 @@ d3.json('data/transformed.json').then( graph => {
     .enter().append('circle')
       .attr('r', d => d.group === 'Individual' ? 4 : 8)
       .style('fill', d => color(d.group))
+      .on('mouseover', setHighlightNeighbours(true))
+      .on('mouseout', setHighlightNeighbours(false))
       .call(d3.drag()
           .on('start', dragstarted)
           .on('drag', dragged)
@@ -97,11 +107,13 @@ d3.json('data/transformed.json').then( graph => {
       .append('g')
       .attr('class', 'anchorNode')
       .attr('i', (d, i) => i );
-   
+
    anchorNode.append('circle').attr('r', 0);
    anchorNode.append('text')
     .attr('class', 'label')
-    .text((d, i) => i % 2 == 0 ? '' : d.node.label);
+    .attr('pointer-events', 'none')
+    .text((d, i) => i % 2 == 0 ? '' : d.node.label)
+    .style('visibility', d => d.node.group == 'Individual' ? 'hidden' : 'visible' );
 
   simulation
     .nodes(graph.nodes);
@@ -109,6 +121,13 @@ d3.json('data/transformed.json').then( graph => {
   simulation
     .force('link')
     .links(graph.links);
+
+  // Has to happen after passing nodes and links to forces as they will
+  // add index and replace source and target with the corresponding node object
+  const linkedByIndex = fromPairs(map(
+    link => [link.source.index + ',' + link.target.index, true],
+    graph.links
+  ))
 
   simulationLabels
     .nodes(labelAnchors);
@@ -160,9 +179,9 @@ d3.json('data/transformed.json').then( graph => {
       .attr('x1', d => d.source.x )
       .attr('y1', d => d.source.y )
       .attr('x2', d => d.target.x )
-      .attr('y2', d => d.target.y );  
+      .attr('y2', d => d.target.y );
   }
-  
+
   function dragstarted(d) {
     if (!d3.event.active) {
       simulation.alphaTarget(0.1).restart();
@@ -171,19 +190,52 @@ d3.json('data/transformed.json').then( graph => {
     d.fx = d.x;
     d.fy = d.y;
   }
-  
+
   function dragged(d) {
     d.fx = d3.event.x;
     d.fy = d3.event.y;
   }
-  
+
   function dragended(d) {
-    d.fx = null; 
+    d.fx = null;
     d.fy = null;
     if (!d3.event.active) {
       simulation.alphaTarget(0);
       simulationLabels.alphaTarget(0);
     }
+  }
+
+  function isConnected(a, b) {
+      return linkedByIndex[a.index + "," + b.index] || linkedByIndex[b.index + "," + a.index] || a.index == b.index;
+  }
+
+  function setHighlightNeighbours(status) {
+    return function(originNodeData) {
+      node.each(function(nodeData, j) {
+        const thisOpacity = !status || isConnected(originNodeData, nodeData) ? 1 : FADED_OPACITY;
+
+        d3.select(this)
+          .style('stroke-opacity', thisOpacity)
+          .style('fill-opacity', thisOpacity);
+      });
+
+      link.style('stroke-opacity', d => !status ||
+        (d.source.index === originNodeData.index ||
+          d.target.index === originNodeData.index) ? 1 : FADED_OPACITY
+      );
+
+      anchorNode.select('text')
+        .style('visibility', d => {
+          if (status) {
+            return isConnected(originNodeData, d.node) ? 'visible' : 'hidden';
+          } else {
+            return d.node.group != 'Individual' ? 'visible' : 'hidden';
+          }
+        })
+        .style('font-weight', d =>
+          status && originNodeData.index === d.node.index ? 'bold' : 'normal'
+        );
+    };
   }
 })
 .catch(error => {
