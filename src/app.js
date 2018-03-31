@@ -1,6 +1,12 @@
 import * as d3 from 'd3'
 
-const { flatMap, map, range, uniq } = require('lodash/fp');
+const {
+  flatMap,
+  fromPairs,
+  map,
+  range,
+  uniq 
+} = require('lodash/fp');
 
 const BORDER_PADDING = 6;
 const FORCE_STRENGTH = -15;
@@ -78,6 +84,8 @@ d3.json('data/transformed.json').then( graph => {
     .enter().append('circle')
       .attr('r', d => d.group === 'Individual' ? 4 : 8)
       .style('fill', d => color(d.group))
+      .on('mouseover', setNonNeighboursOpacity(0.2))
+      .on('mouseout', setNonNeighboursOpacity(1))
       .call(d3.drag()
           .on('start', dragstarted)
           .on('drag', dragged)
@@ -109,6 +117,12 @@ d3.json('data/transformed.json').then( graph => {
   simulation
     .force('link')
     .links(graph.links);
+
+  // Has to happen after passing to link force as that will replace source and target with the object
+  const linkedByIndex = fromPairs(map(
+    link => [link.source.index + ',' + link.target.index, true],
+    graph.links
+  ))
 
   simulationLabels
     .nodes(labelAnchors);
@@ -184,6 +198,24 @@ d3.json('data/transformed.json').then( graph => {
       simulation.alphaTarget(0);
       simulationLabels.alphaTarget(0);
     }
+  }
+
+  function isConnected(a, b) {
+      return linkedByIndex[a.index + "," + b.index] || linkedByIndex[b.index + "," + a.index] || a.index == b.index;
+  }
+
+  function setNonNeighboursOpacity(opacity) {
+    return function(d) {
+        node.style("stroke-opacity", function(o) {
+            const thisOpacity = isConnected(d, o) ? 1 : opacity;
+            this.setAttribute('fill-opacity', thisOpacity);
+            return thisOpacity;
+        });
+
+        link.style("stroke-opacity", function(o) {
+            return o.source === d || o.target === d ? 1 : opacity;
+        });
+    };
   }
 })
 .catch(error => {

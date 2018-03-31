@@ -15,3 +15,4 @@ npm run build
 ### Mainly based on following examples:
 - [Force directed graph](https://bl.ocks.org/mbostock/4062045)
 - [Force-based label placement](http://bl.ocks.org/MoritzStefaner/1377729)
+- [Nearest Neighbor Highlighting](http://bl.ocks.org/caldweba/5f13d315036c923cd8d4)
